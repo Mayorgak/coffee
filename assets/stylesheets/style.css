@@ -5,7 +5,14 @@
 	
 }
 
+.nav-link {
+  color: whitesmoke;
+  font-family:'Cairo', sans-serif; 
+}
 
+.nav-link:hover {
+  color: lightgray
+}
 
 h1 , h6 {
   color: whitesmoke;
@@ -13,7 +20,9 @@ h1 , h6 {
 
 }
 
-
+nav-item{
+  float: right;
+}
 
 .bd-placeholder-img {
         font-size: 1.125rem;
