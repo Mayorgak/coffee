@@ -1,11 +1,10 @@
 # Portfolio 
 
-Portfolio created to showcase porjects worked on during boot camp. 👩🏽‍💻 
+Portfolio created to showcase projects worked on during boot camp. 👩🏽‍💻 
 
 ---
 
-![](porfolio.gif)
-
+![](https://github.com/Mayorgak/coffee/blob/master/assets/images/portfolio.gif
 
 
 ---
