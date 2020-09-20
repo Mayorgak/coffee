@@ -11,7 +11,7 @@ Portfolio created to showcase projects worked on during boot camp. 👩🏽‍�
 
 ## Link 
 
- https://mayorgak.github.io/coffee
+https://github.com/Mayorgak/portfolio
 
 
 --
