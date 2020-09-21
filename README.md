@@ -11,8 +11,7 @@ Portfolio created to showcase projects worked on during boot camp. 👩🏽‍�
 
 ## Link 
 
-https://github.com/Mayorgak/portfolio
-
+https://mayorgak.github.io/portfolio/
 
 --
 
